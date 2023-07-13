@@ -1,5 +1,4 @@
 # break statement
-
 for x in range(20):
     print(x)
     if x == 10:
