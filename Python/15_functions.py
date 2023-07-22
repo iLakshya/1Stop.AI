@@ -17,7 +17,7 @@ def func4(name = "Lakshya", repeat = 2):
     for i in range(repeat):
         print(name)
 func4()
-func4.__doc__
+func4.__doc__  # for the documentation of the function (what you want in the function to be done)
 
 # return statement
 def sqr_number(x):
