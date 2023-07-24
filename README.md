@@ -1,18 +1,6 @@
 # Python
 
-### [Hello World in Python!](https://github.com/iLakshya/1Stop.AI/blob/main/Python/1_hello.py)
-### [Data Types](https://github.com/iLakshya/1Stop.AI/blob/main/Python/2_datatypes.py)
-### [Operators](https://github.com/iLakshya/1Stop.AI/blob/main/Python/3_operators.py)
-### [Variables](https://github.com/iLakshya/1Stop.AI/blob/main/Python/4_variables.py)
-### [Working with Numbers](https://github.com/iLakshya/1Stop.AI/blob/main/Python/5_working_with_numbers.py)
-### [Strings](https://github.com/iLakshya/1Stop.AI/blob/main/Python/6_stringmanipulation.py)
-### [Date and Time](https://github.com/iLakshya/1Stop.AI/blob/main/Python/7_datetime.py)
-### [Conditional Statements](https://github.com/iLakshya/1Stop.AI/blob/main/Python/8_conditionalstatements.py)
-### [For Loops](https://github.com/iLakshya/1Stop.AI/blob/main/Python/9_forloops.py)
-### [Break and Continue](https://github.com/iLakshya/1Stop.AI/blob/main/Python/10_breakandcontinue.py)
-### [Nested For Loop](https://github.com/iLakshya/1Stop.AI/blob/main/Python/11_nestedforloop.py)
-### [While Loop](https://github.com/iLakshya/1Stop.AI/blob/main/Python/12_whileloop.py)
-### [List and Sets](https://github.com/iLakshya/1Stop.AI/blob/main/Python/13_liststuplessets_1.py)
-### [Tuples](https://github.com/iLakshya/1Stop.AI/blob/main/Python/13_liststuplessets_2.py)
-### [Dictionaries](https://github.com/iLakshya/1Stop.AI/blob/main/Python/14_dictionary.py)
-### [Functions](https://github.com/iLakshya/1Stop.AI/blob/main/Python/15_functions.py)
+### 🐍 Introduction to Python
+### ✨ Explanation about Lists, Tuples, Sets, Dictionaries
+### 💪🏻 Functions in Python
+### 📖 Introduction to Numpy, Matplotlib and Pandas
